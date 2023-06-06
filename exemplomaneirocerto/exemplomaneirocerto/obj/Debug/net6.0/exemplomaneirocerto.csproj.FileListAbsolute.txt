@@ -1,0 +1,15 @@
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\bin\Debug\net6.0\exemplomaneirocerto.exe
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\bin\Debug\net6.0\exemplomaneirocerto.deps.json
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\bin\Debug\net6.0\exemplomaneirocerto.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\bin\Debug\net6.0\exemplomaneirocerto.dll
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\bin\Debug\net6.0\exemplomaneirocerto.pdb
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\obj\Debug\net6.0\exemplomaneirocerto.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\obj\Debug\net6.0\exemplomaneirocerto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\obj\Debug\net6.0\exemplomaneirocerto.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\obj\Debug\net6.0\exemplomaneirocerto.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\obj\Debug\net6.0\exemplomaneirocerto.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\obj\Debug\net6.0\exemplomaneirocerto.dll
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\obj\Debug\net6.0\refint\exemplomaneirocerto.dll
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\obj\Debug\net6.0\exemplomaneirocerto.pdb
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\obj\Debug\net6.0\exemplomaneirocerto.genruntimeconfig.cache
+C:\Users\logonrmlocal\source\repos\exemplomaneirocerto\exemplomaneirocerto\obj\Debug\net6.0\ref\exemplomaneirocerto.dll
